@@ -1,0 +1,172 @@
+.canvas{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 80px;
+   align-items: center;
+
+}
+.headerone{
+ font-weight: 800;
+ font-size: 20px;
+ color: black;
+ margin-left: 100px;
+}
+.headertwo{
+  color:  hsl(220, 14%, 75%);  
+  margin-left: 40px;
+  font-size: 15px;
+
+}
+.headerthree{
+    color:  hsl(220, 14%, 75%);  
+    margin-left: 30px;
+    font-size: 15px;
+}
+.headerfour{
+    color:  hsl(220, 14%, 75%);  
+    margin-left: 30px;
+    font-size: 15px;  
+}
+.headerfive{
+    color:  hsl(220, 14%, 75%);  
+    margin-left: 30px;
+    font-size: 15px;
+}
+.headersix{
+    color:  hsl(220, 14%, 75%);  
+    margin-left: 30px;
+    font-size: 15px;
+}
+.headerseven{
+    margin-left: 40vw;
+}
+.headereight{
+    margin-left: 30px; 
+}
+.line{
+    background-color: hsl(220, 14%, 75%) ;
+    height: 1px;
+    width: 82vw;
+    margin-left: 100px;
+}
+.secondheader{
+    display: flex;
+    flex-direction: row;
+}
+.leftcanvasdiv{
+    width: 500px;
+    height: 550px;
+    margin-top: 40px;
+    margin-left: 80px;
+    border-radius: 15px;
+}
+.rightcanvasdiv{
+    display: flex;
+    flex-direction: column;
+    height: 430px;
+    width: 600px;
+    margin-left: 200px;
+    background-color: white;
+    margin-top: 120px;
+}
+.sneakercompany{
+    color:  hsl(35, 90%, 50%);
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-family: [Kumbh Sans];
+}
+.FALL{
+    color:  hsl(220, 13%, 13%);
+    font-size: 63px;
+    font-weight: 900;
+    font-family: [kumbh sans];
+    margin-bottom: 15px;
+}
+.note{
+    color: hsl(219, 9%, 45%);
+    font-size: 19px;
+    margin-bottom: 15px;
+}
+.EGO{
+    display: flex;
+    flex-direction: row; 
+    
+}
+.money{
+    color:  hsl(220, 13%, 13%);
+    font-size: 35px;
+    font-weight: 700;
+    font-family: [kumbh sans];
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+.percent{
+    background-color: hsl(25, 100%, 94%);
+  color:  hsl(26, 100%, 55%);
+  width: 45px;
+  height: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.stress{
+    display: flex;
+    justify-content: center;
+    width: 80px;
+    height: 40px;
+}
+.cash{
+    color: hsl(219, 9%, 45%);
+    margin-bottom: 18px;
+    margin-left: 10px;
+}
+/* .cancel{
+    height: 1px;
+    width: 80px;
+    background-color: hsl(219, 9%, 45%) ;
+    margin-top: 13px;
+} */
+
+.littlecanvas{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+}
+.firstlittle{
+    width: 85px;
+    height: 85px;
+    border-radius: 7px;
+    margin-left: 160px;
+}
+.secondlittle{
+    width: 85px;
+    height: 85px;
+    border-radius: 7px;
+    margin-left: 20px;
+}
+.thirdlittle{
+    width: 85px;
+    height: 85px;
+    border-radius: 7px;
+    margin-left: 20px;
+}
+.fourthlittle{
+    width: 85px;
+    height: 85px;
+    border-radius: 7px;
+    margin-left: 20px;
+}
+.attribution{
+    margin-top: 120px;
+}
+
